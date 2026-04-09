@@ -79,7 +79,7 @@ PMP-certified Technical Product Manager with 11+ years of experience delivering 
 ## 📫 Contact Me
 
 📧 Email: [latikajadhav17@gmail.com](mailto:latikajadhav17@gmail.com)
-💼 LinkedIn:(https://www.linkedin.com/in/latika-jadhav-33a07354)
+💼 LinkedIn:([https://www.linkedin.com/in/latika-jadhav-33a07354](url))
 Phone Number : 9029836465
 
 ---
