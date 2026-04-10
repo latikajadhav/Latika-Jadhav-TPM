@@ -10,11 +10,24 @@ Technical Project Manager Portfolio
 
 ## 💡 About Me
 
-PMP-certified Technical Product Manager with 11+ years of experience delivering enterprise products across AI, cybersecurity, and ERP platforms.
+PMP‑certified Technical Project Manager with 11+ years of experience in Agile execution, end‑to‑product lifecycle
+management and AI‑driven delivery. Skilled in turning business needs into scalable technical solutions, with strong
+expertise in road mapping, backlog management, cross‑functional leadership, and hands‑on .NET full‑stack
+development. Passionate about building user‑centric products that deliver measurable business impact.
 
-✔️ Expertise in Agile, Product Strategy, and AI-driven solutions
-✔️ Strong technical foundation in .NET, APIs, and system design
-✔️ Passionate about building scalable, user-centric products
+**CORE COMPETENCIES:**
+Software Product Strategy | Agile & Scrum | Product Road mapping | Requirements Gathering | Stakeholder
+Management | Data Analysis | User Experience Design | Release Management | API Integration | Market Research |
+Cross-Functional Team Leadership | Change Management | Performance Metrics & Reporting | AI & Automation:
+Microsoft 365 Copilot | OpenAI API (GPT-4) | Prompt Engineering
+
+**CERTIFICATIONS:**
+● Project Management Professional (PMP) from PMI
+● Microsoft Azure Fundamentals from Microsoft
+● Generative AI from LinkedIn
+● Generative AI and prompt engineering from Udemy
+● Agile Way of Working
+● AI Leader: Generative AI & Agentic AI for Leaders & Founders from Udemy
 
 ---
 
@@ -22,7 +35,7 @@ PMP-certified Technical Product Manager with 11+ years of experience delivering 
 
 ### 🤖 GenAI Penetration Testing Automation
 
-👉 [View Project](./genai-pt-automation)
+👉 [View Project](.case-studies/GenAI-Based)
 
 * Automated manual security testing using LLMs
 * Reduced cycle time & improved coverage
