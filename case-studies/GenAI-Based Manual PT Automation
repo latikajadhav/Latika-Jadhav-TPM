@@ -1,0 +1,65 @@
+# 🔐 GenAI-Based Manual Penetration Testing Automation
+
+## 🧩 Problem Statement
+Manual penetration testing (PT) was highly time-consuming, inconsistent, and dependent on individual expertise.  
+Security validation often happened late in the SDLC, increasing release risk and delaying deployments.
+
+---
+
+## 🎯 Objective
+- Automate manual penetration testing processes  
+- Shift security validation earlier in SDLC (Shift-Left)  
+- Improve test coverage and reduce release risks  
+
+---
+
+## 💡 Solution
+Designed and delivered a **GenAI-powered penetration testing automation system** that leverages AI to generate test cases aligned with ASVS security standards.
+
+---
+
+## 🏗️ Architecture Overview
+- **Frontend:** Angular-based UI for test execution and reporting  
+- **Backend:** .NET Core APIs handling orchestration  
+- **AI Layer:** Azure OpenAI (GPT-based models)  
+- **Automation:** Python + Selenium for test execution  
+- **Data Layer:** SQL Server for logs and audit tracking  
+
+---
+
+## ⚙️ Key Features
+-  AI-generated penetration testing scenarios  
+-  Automated mapping of ASVS controls to test cases  
+-  Auto-generation of Selenium test scripts  
+-  Real-time execution logs and reporting  
+-  Built-in compliance and audit traceability  
+
+---
+
+## 🧠 TPM Contributions
+- Defined **AI security roadmap** and execution strategy  
+- Led cross-functional teams (AI/ML, DevSecOps, QA)  
+- Managed backlog, sprint planning, and stakeholder alignment  
+- Established **Responsible AI governance framework**  
+
+---
+
+## 📈 Impact
+-  Reduced penetration testing cycle time significantly  
+-  Lowered release risk through early-stage validation  
+-  Improved consistency and coverage of security testing  
+-  Accelerated delivery timelines  
+
+---
+
+## 🔐 Governance & Compliance
+- Human-in-the-loop validation for AI outputs  
+- Full audit trail (EMP ID tracking, logs, RFC evidence)  
+- Compliance with enterprise security and Responsible AI policies  
+
+---
+
+## 🧩 Key Learnings
+- AI can drastically reduce manual effort in cybersecurity workflows  
+- Governance and explainability are critical in AI-driven systems  
+- Early security integration improves product quality and delivery speed  
