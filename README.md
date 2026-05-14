@@ -35,7 +35,7 @@ Microsoft 365 Copilot | OpenAI API (GPT-4) | Prompt Engineering
 
 ### 🤖 GenAI Penetration Testing Automation
 
-👉 [View Project](.case-studies/GenAI-Based)
+👉 [View Project](.case-studies/GenAI-Based Manual PT Automation)
 
 * Automated manual security testing using LLMs
 * Reduced cycle time & improved coverage
